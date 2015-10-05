@@ -13,7 +13,7 @@ The currently-completed archives of console game art:
 
 ###RetroPie / EmulationStation usage:
 
-Unless you write a parser, ou'll have to manually edit xml, sadly:
+Unless you write a parser, you'll have to manually edit xml, sadly:
 
 https://www.reddit.com/r/RetroPie/comments/3n032p/how_can_i_manually_add_cover_art_to_my_games/
 
