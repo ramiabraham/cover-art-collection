@@ -16,3 +16,11 @@ The currently-completed archives of console game art:
 Unless you write a parser, ou'll have to manually edit xml, sadly:
 
 https://www.reddit.com/r/RetroPie/comments/3n032p/how_can_i_manually_add_cover_art_to_my_games/
+
+###OpenEmu usage:
+
+Right-click on a game and select "Add Cover Art From File":
+
+![Add Cover Art From File](http://i.imgur.com/fJm2OLl.png "Add Cover Art From File")
+
+![Add Cover Art From File - successfully loading an image](http://i.imgur.com/tIqXaGW.png "Add Cover Art From File - successfully loading an image")
